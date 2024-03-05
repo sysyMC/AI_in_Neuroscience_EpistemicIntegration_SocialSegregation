@@ -5,7 +5,7 @@
 
 This work relies on the scientometric dataset available on the following Zenodo repository: https://doi.org/10.5281/zenodo.10777508. 
 
-This dataset includs neuroscience papers published in journals both referenced by the Web of Science and SCImago Journal Rank, which has been extracted from a datadump of the Microsoft Academic Knowledge Graph (version of 2023-05-26 available at https://doi.org/10.5281/zenodo.3936556).
+This dataset includs neuroscience papers published in journals both referenced by the Web of Science and SCImago Journal Rank, which has been extracted from a datadump of the Microsoft Academic Knowledge Graph (version of 2020-05-29 available at https://doi.org/10.5281/zenodo.3936556).
 
 Each notebook is named with a number, indicating the chronological order of execution:
 1) `dataset_preparation.ipynb`: import the dataset described above (after downloaded it from Zenodo), clean and pre-process the different preliminary databases, and compute some metrics which will be used in the following notebooks,
