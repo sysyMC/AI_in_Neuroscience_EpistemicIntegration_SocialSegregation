@@ -13,5 +13,7 @@ Each notebook is named with a number indicating the chronological order of execu
 3) `journals.ipynb`: study of the AI activity of the neuroscience journals and their related authors,
 4) `author_collaboration_network.ipynb`: study of the neuroscientific collaboration network.
 
-Throughout the codes, some paths toward directories of inputs' importation and outputs' saving (notably for data and figures that are heavy or obtained with long-lasting execution) need to be updated at the discretion of the user.
+Throughout the codes, some paths toward directories of inputs' importation and outputs' saving (notably for data and figures that are heavy or obtained with long-lasting execution) need to be updated at the discretion of the user. The same goes from the installation of some Python packages (use `pip install package` for this purpose).
+
+Python version of execution's environment: **3.8.10**.
  
