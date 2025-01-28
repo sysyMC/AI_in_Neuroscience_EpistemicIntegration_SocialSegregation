@@ -1,7 +1,7 @@
 # Epistemic integration and social segregation of AI in neuroscience
 
  This repository includes the original codes related to the study of the integration of AI in neuroscience provided in the follwing paper: 
- - Fontaine, S., Gargiulo, F., Dubois, M., Tubaro, P. (2023). *Epistemic integration and social segregation of AI in neuroscience*. Available at: https://arxiv.org/abs/2310.01046.
+ - Fontaine, S., Gargiulo, F., Dubois, M., Tubaro, P. (2023). *Epistemic integration and social segregation of AI in neuroscience*. Available at: https://arxiv.org/abs/2310.01046 (preprint) and https://appliednetsci.springeropen.com/articles/10.1007/s41109-024-00618-2 (published version).
 
 This work relies on the scientometric dataset available on the following Zenodo repository: https://doi.org/10.5281/zenodo.10777508. 
 
